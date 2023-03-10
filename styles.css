@@ -25,6 +25,506 @@
     gap: 18px;
 }
 
+.organization1{
+    flex-direction: column;
+    
+}
+
+.colecciones{
+    
+    position: absolute;
+    width: 1200px;
+    height: 382px;
+    left: 156px;
+    top: 2709.69px;
+}
+
+.pedigre{
+    position: absolute;
+    width: 383px;
+    height: 281px;
+    left: 0px;
+    top: 0px;
+
+    background: url(.png), #FFFFFF;
+
+}
+
+.container-super{
+    position: absolute;
+    width: 383px;
+    height: 99px;
+    left: 0px;
+    top: 285px;
+
+    background: #FFFFFF;
+    border-radius: 0px 0px 4px 4px;
+}
+
+.conta-super-inter{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 4px 137px 4px 0px;
+
+    position: absolute;
+    width: 358px;
+    height: 41px;
+    left: 25px;
+    top: calc(50% - 41px/2 + 9px);
+}
+
+.categorias{
+    
+    width: 241.36px;
+    height: 37px;
+    left: 8px;
+    top: 37px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 25px;
+    line-height: 31px;
+
+
+    display: flex;
+    align-items: center;
+
+    color: #666666;
+}
+
+.tex-super{
+    width: 221px;
+    height: 33px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 33px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+
+    color: #4B4B4B;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.tex-descubre{
+    position: absolute;
+    width: 93.82px;
+    height: 18px;
+    left: 25px;
+    top: 20px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 14px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+
+    color: #4B4B4B;
+}
+
+.colecciones-inter{
+    position: absolute;
+    width: 800px;
+    height: 400px;
+    left: 391px;
+    top: -8px;
+}
+.box-categorias{
+    position: absolute;
+    width: 1200px;
+    height: 473.19px;
+    left: calc(50% - 1200px/2 - 8px);
+    top: 3131.69px;
+}
+
+.mini-box-categorias{
+    box-sizing: border-box;
+
+    position: absolute;
+    height: 170px;
+    left: 0px;
+    right: 0px;
+    bottom: 170px;
+
+    background: #FFFFFF;
+    border-width: 0px 1px 1px 0px;
+    border-style: solid;
+    border-color: #EAE6E6;
+}
+
+.section{
+    position: absolute;
+    width: 1512px;
+    height: 300px;
+    left: -2px;
+    top: 3582.5px;
+
+    background: #FFFFFF;
+}
+
+.section-int{
+    position: absolute;
+    width: 1200px;
+    height: 80px;
+    left: calc(50% - 1200px/2);
+    top: 0px;
+}
+
+.section1{
+    position: absolute;
+    height: 260px;
+    left: 0px;
+    right: 800px;
+    top: 40px;
+}
+
+.section2{
+    position: absolute;
+    height: 242px;
+    left: 400px;
+    right: 400px;
+    top: 40px;
+
+}
+
+.section2{
+    position: absolute;
+    height: 242px;
+    left: 800px;
+    right: 0px;
+    top: 40px;
+
+}
+
+.seccion-tiendas{
+    position: absolute;
+    width: 454.64px;
+    height: 31.19px;
+    left: 0px;
+    top: 40px;
+}
+
+.mejores-tiendas{
+    position: absolute;
+    width: 342px;
+    height: 32px;
+    left: 8px;
+    top: 0px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 25px;
+    line-height: 31px;
+    /* identical to box height, or 125% */
+
+    display: flex;
+    align-items: center;
+
+    color: #666666;
+}
+
+.ver-tiendas{
+    position: absolute;
+    width: 76px;
+    height: 20px;
+    left: 375.45px;
+    top: 10px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 19px;
+    /* identical to box height, or 128% */
+
+    display: flex;
+    align-items: center;
+
+    color: #3483FA;
+}
+.lego-principal{
+    /*position: absolute;*/
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+    width: 85vw;
+    padding: 16px;
+    height: 340px;
+    left: 8px;
+    top: 0px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.1), 0px -1px 2px rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 15px;
+    padding: 16px;
+    border-radius: 6px;
+    width: 181px;
+  }
+
+.logo-tienda{
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: calc(50% - 80px/2);
+    top: 55px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+
+
+.vertienda{
+    position: absolute;
+    width: 68.84px;
+    height: 22px;
+    left: 107.67px;
+    top: 298px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+color: #999999;
+}
+
+.articulos-tienda{
+    position: absolute;
+    width: 284px;
+    height: 74px;
+    left: 0px;
+    top: 202px;
+}
+
+
+
+
+
+.articulo-izq{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    left: calc(50% - 70px/2 - 76px);
+    top: 3px;
+
+    border: 1px solid #EEEEEE;
+    border-radius: 8px;
+}
+
+.articulo-centro{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    left: calc(50% - 70px/2);
+    top: 3px;
+
+    border: 1px solid #EEEEEE;
+    border-radius: 8px;
+}
+
+.articulo-der{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    left: calc(50% - 70px/2 + 76px);
+    top: 3px;
+
+    border: 1px solid #EEEEEE;
+    border-radius: 8px;
+}
+
+.caja-lego{
+    position: absolute;
+    width: 284px;
+    height: 74px;
+    left: 0px;
+    top: 202px;
+}
+
+.box-inter-catego{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+
+    position: absolute;
+    width: 1190px;
+    height: 340px;
+    left: 10px;
+    top: 93.19px;
+
+    background: rgba(255, 255, 255, 0.002);
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+}
+
+.text-tienda{
+    position: absolute;
+    width: 284px;
+    height: 35px;
+    left: 0px;
+    top: 151px;
+}
+
+.style-text-tienda{
+    position: absolute;
+    width: 53.29px;
+    height: 35px;
+    left: 115.45px;
+    top: 0px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #333333;
+
+}
+
+.contenedor-tienda{
+    position: absolute;
+    width: 284px;
+    height: 340px;
+    left: 8px;
+    top: 0px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.1), 0px -1px 2px rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+}
+
+.contenedor-tiendami{
+    position: absolute;
+    width: 284px;
+    height: 340px;
+    left: 308px;
+    top: 0px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.1), 0px -1px 2px rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+}
+
+.contenedor-tiendaoster{
+    position: absolute;
+    width: 284px;
+    height: 340px;
+    left: 608px;
+    top: 0px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.1), 0px -1px 2px rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+}
+
+.contenedor-tiendanikon{
+    position: absolute;
+    width: 284px;
+    height: 340px;
+    left: 908px;
+    top: 0px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.1), 0px -1px 2px rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+}
+
+.descubre-pp{
+    position: absolute;
+    width: 1200px;
+    height: 398.19px;
+    left: calc(50% - 1200px/2);
+    top: 1759.5px;
+}
+
+.tamaño-home{
+
+    position: absolute;
+    width: 284px;
+    height: 95px;
+    left: 0px;
+    top: 0px;
+}
+
+.caja-tiendas{
+    
+    position: absolute;
+    width: 1200px;
+    height: 505.19px;
+    left: calc(50% - 1200px/2);
+    top: 0px;
+}
+
+.caja-tiendas2{
+    
+    position: absolute;
+    width: 1200px;
+    height: 356px;
+    left: 0px;
+    top: 93.19px;
+
+}
+
+
+
+.seccion-pp{
+    position: absolute;
+    width: 1512px;
+    height: 505.19px;
+    left: 0px;
+    top: 2117.5px;
+    
+    background: linear-gradient(0deg, #E6E6E6 0%, rgba(255, 255, 255, 0) 100%);
+}
+
+.margen3{
+    margin-left: 148;
+    margin-right: 164;
+}
+
 .nav-footer .nav-footer-tertiary-info {
     max-width: 1180px;
     padding: 16px 0
@@ -510,6 +1010,7 @@ body {
     background-color: #fff159;
     border: 0;
     position: relative
+    
 }
 
 .nav-header:before {
