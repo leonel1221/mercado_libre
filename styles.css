@@ -35,7 +35,7 @@
     position: absolute;
     width: 1200px;
     height: 382px;
-    left: 156px;
+    left: 100px;
     top: 2709.69px;
 }
 
@@ -71,7 +71,7 @@
     width: 358px;
     height: 41px;
     left: 25px;
-    top: calc(50% - 41px/2 + 9px);
+    top: 10px;
 }
 
 .categorias{
@@ -101,7 +101,7 @@
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
-    font-size: 28px;
+    font-size: 20px;
     line-height: 33px;
     /* identical to box height */
 
@@ -129,7 +129,7 @@
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 600;
-    font-size: 12px;
+    font-size: 5px;
     line-height: 14px;
     display: flex;
     align-items: center;
@@ -480,6 +480,295 @@ color: #999999;
     top: 1759.5px;
 }
 
+.descubretext{
+    position: absolute;
+    width: 109.59px;
+    height: 37px;
+    left: 8px;
+    top: 37px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 26px;
+    line-height: 31px;
+    /* or 120% */
+
+    display: flex;
+    align-items: center;
+
+    color: #666666;
+
+}
+
+.descubreinter{
+    position: absolute;
+    height: 265px;
+    left: 0px;
+    right: 0px;
+    top: 93.19px;
+
+}
+
+.renuevaespacios{
+    position: absolute;
+    height: 250px;
+    left: 8px;
+    right: 608px;
+    top: 0px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+}
+
+.suscribete{
+    position: absolute;
+    height: 250px;
+    left: 607px;
+    right: 9px;
+    top: 0px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+}
+
+.text-renueva{
+    position: absolute;
+    width: 213px;
+    height: 12px;
+    left: 32px;
+    top: 32px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 10px;
+    line-height: 12px;
+    /* identical to box height, or 100% */
+
+    display: flex;
+    align-items: center;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+
+    color: #4B4B4B;
+
+}
+
+.estilo-imgpla{
+    position: absolute;
+    width: 289.84px;
+    left: 307.27px;
+    top: 0px;
+    bottom: 0px;
+
+    background: url(.png);
+}
+
+.estilo-imghogar{
+    position: absolute;
+    width: 289.84px;
+    left: 319.5px;
+    top: 0px;
+    bottom: 0px;
+
+    background: url(.png);
+}
+
+.text-hogarespacios{
+    position: absolute;
+    width: 251px;
+    height: 31px;
+    left: 32px;
+    top: 55px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 31px;
+    /* identical to box height, or 110% */
+
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+
+    color: #4B4B4B;
+
+}
+
+.hasta-50off{
+    position: absolute;
+    width: 208px;
+    height: 31px;
+    left: 32px;
+    top: 70.8px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 31px;
+    /* identical to box height, or 110% */
+
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+
+    color: #4B4B4B;
+
+}
+
+.boton-vermas{
+    position: absolute;
+    width: 96px;
+    height: 36px;
+    left: 32px;
+    top: 100.59px;
+
+    background: #3483FA;
+    border-radius: 2px;
+}
+
+.suscri-nivel6{
+    position: absolute;
+    width: 214px;
+    height: 12px;
+    left: 32px;
+    top: 32px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 10px;
+    line-height: 12px;
+    /* identical to box height, or 100% */
+
+    display: flex;
+    align-items: center;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+
+    color: #4B4B4B;
+
+}
+
+.porsolo{
+    position: absolute;
+    width: 132px;
+    height: 31px;
+    left: 32px;
+    top: 55px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 31px;
+    /* identical to box height, or 110% */
+
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+
+    color: #4B4B4B;
+}
+
+.precio-cadames{
+    position: absolute;
+    width: 241px;
+    height: 31px;
+    left: 32px;
+    top: 75.8px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 31px;
+    /* identical to box height, or 114% */
+
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+
+    color: #4B4B4B;
+
+}
+
+.boton-suscribirme{
+    position: absolute;
+    width: 96px;
+    height: 36px;
+    left: 32px;
+    top: 110.59px;
+
+    background: #3483FA;
+    border-radius: 2px;
+}
+
+.conte-plataformas{
+    position: absolute;
+    width: 275.11px;
+    height: 198.59px;
+    left: 0px;
+    top: 25.7px;
+}
+
+.conte-renuevahogar{
+    position: absolute;
+    width: 287.34px;
+    height: 198.59px;
+    left: 0px;
+    top: 25.7px;
+}
+
+.textsucribirme{
+    position: absolute;
+    width: 74.09px;
+    height: 20px;
+    left: 12px;
+    top: 7.5px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 1px;
+    /* or 7% */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;
+
+}
+
+.vertext{
+    position: absolute;
+    width: 50.83px;
+    height: 20px;
+    left: 22.69px;
+    top: 7.5px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1px;
+    /* or 7% */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;
+
+}
+
 .tamaño-home{
 
     position: absolute;
@@ -514,10 +803,18 @@ color: #999999;
     position: absolute;
     width: 1512px;
     height: 505.19px;
-    left: 0px;
+    left: -60px;
     top: 2117.5px;
     
     background: linear-gradient(0deg, #E6E6E6 0%, rgba(255, 255, 255, 0) 100%);
+}
+
+.categorias-pp{
+    position: absolute;
+    width: 1200px;
+    height: 473.19px;
+    left: calc(50% - 1200px/2 - 8px);
+    top: 3131.69px;
 }
 
 .margen3{
