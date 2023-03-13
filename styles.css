@@ -4,9 +4,7 @@
  * @version 5.22.5
  * @author MercadoLibre.com
  */
-.nav-footer-tertiary-info {
-    border-top: 1px solid #ededed
-}
+
 
 
 .margen1{
@@ -919,10 +917,10 @@
     left: 69.66px;
     top: 105px;
 
-    font-family: 'Roboto';
+    font-family: Roboto,sans-serif;
     font-style: normal;
     font-weight: 500;
-    font-size: 19px;
+    font-size: 18px;
     line-height: 28px;
     /* or 147% */
 
@@ -938,13 +936,13 @@
     position: absolute;
     width: 303.4px;
     height: 75px;
-    left: 48.39px;
+    left: 36.39px;
     top: 136px;
 
-    font-family: 'Roboto';
+    font-family: Roboto,sans-serif;
     font-style: normal;
     font-weight: 400;
-    font-size: 15px;
+    font-size: 13px;
     line-height: 18px;
     /* or 120% */
 
@@ -960,13 +958,13 @@
     position: absolute;
     width: 195.11px;
     height: 20px;
-    left: 102.55px;
+    left: 105.55px;
     top: 220px;
 
-    font-family: 'Roboto';
+    font-family: Roboto,sans-serif;
     font-style: normal;
     font-weight: 400;
-    font-size: 13px;
+    font-size: 11px;
     line-height: 15px;
     display: flex;
     align-items: center;
@@ -993,13 +991,13 @@
     position: absolute;
     width: 248.73px;
     height: 29px;
-    left: 75.73px;
+    left: 85.73px;
     top: 105px;
 
-    font-family: 'Roboto';
+    font-family: Roboto,sans-serif;
     font-style: normal;
     font-weight: 500;
-    font-size: 20px;
+    font-size: 18px;
     line-height: 28px;
     /* or 140% */
 
@@ -1018,10 +1016,10 @@
     left: 55.8px;
     top: 136px;
 
-    font-family: 'Roboto';
+    font-family: Roboto,sans-serif;
     font-style: normal;
     font-weight: 400;
-    font-size: 15px;
+    font-size: 13px;
     line-height: 18px;
     /* or 120% */
 
@@ -1037,13 +1035,13 @@
     position: absolute;
     width: 206.06px;
     height: 20px;
-    left: 97.06px;
+    left: 117.06px;
     top: 202px;
 
-    font-family: 'Roboto';
+    font-family: Roboto,sans-serif;
     font-style: normal;
     font-weight: 400;
-    font-size: 13px;
+    font-size: 11px;
     line-height: 15px;
     display: flex;
     align-items: center;
@@ -1073,10 +1071,10 @@
     left: 77.36px;
     top: 105px;
 
-    font-family: 'Roboto';
+    font-family: Roboto,sans-serif;
     font-style: normal;
     font-weight: 500;
-    font-size: 19px;
+    font-size: 18px;
     line-height: 28px;
     /* or 147% */
 
@@ -1095,10 +1093,10 @@
     left: 51.98px;
     top: 136px;
 
-    font-family: 'Roboto';
+    font-family: Roboto,sans-serif;
     font-style: normal;
     font-weight: 400;
-    font-size: 15px;
+    font-size: 13px;
     line-height: 18px;
     /* or 120% */
 
@@ -1114,13 +1112,13 @@
     position: absolute;
     width: 130.64px;
     height: 20px;
-    left: 134.78px;
+    left: 145.78px;
     top: 202px;
 
-    font-family: 'Roboto';
+    font-family: Roboto,sans-serif;
     font-style: normal;
     font-weight: 400;
-    font-size: 13px;
+    font-size: 11px;
     line-height: 15px;
     display: flex;
     align-items: center;
@@ -1172,10 +1170,10 @@
     left: 8px;
     top: 0px;
 
-    font-family: 'Roboto';
+    font-family: Roboto,sans-serif;
     font-style: normal;
     font-weight: 300;
-    font-size: 25px;
+    font-size: 22px;
     line-height: 31px;
     /* identical to box height, or 125% */
 
@@ -1192,10 +1190,10 @@
     left: 375.45px;
     top: 10px;
 
-    font-family: 'Roboto';
+    font-family: Roboto,sans-serif;
     font-style: normal;
     font-weight: 400;
-    font-size: 15px;
+    font-size: 13px;
     line-height: 19px;
     /* identical to box height, or 128% */
 
@@ -1812,10 +1810,10 @@
     left: 24px;
     top: 20px;
 
-    font-family: 'Roboto';
+    font-family: Roboto,sans-serif;
     font-style: normal;
     font-weight: 400;
-    font-size: 17px;
+    font-size: 15px;
     line-height: 18px;
     /* or 106% */
 
@@ -1852,10 +1850,10 @@
     width: 119px;
     height: 16px;
     
-    font-family: 'Roboto';
+    font-family: Roboto,sans-serif;
     font-style: normal;
     font-weight: 400;
-    font-size: 15px;
+    font-size: 14px;
     line-height: 16px;
     /* identical to box height, or 107% */
 
@@ -1921,10 +1919,10 @@
     width: 240.39px;
     height: 48px;
 
-    font-family: 'Roboto';
+    font-family: Roboto,sans-serif;
     font-style: normal;
     font-weight: 400;
-    font-size: 16px;
+    font-size: 14px;
     line-height: 16px;
     /* or 100% */
 
@@ -1974,10 +1972,10 @@
     width: 101px;
     height: 16px;
 
-    font-family: 'Roboto';
+    font-family: Roboto,sans-serif;
     font-style: normal;
     font-weight: 400;
-    font-size: 15px;
+    font-size: 14px;
     line-height: 16px;
     /* identical to box height, or 107% */
 
@@ -2070,10 +2068,10 @@
     left: 24px;
     top: 24.5px;
 
-    font-family: 'Roboto';
+    font-family: Roboto,sans-serif;
     font-style: normal;
     font-weight: 600;
-    font-size: 25px;
+    font-size: 20px;
     line-height: 30px;
     /* or 120% */
 
@@ -2142,10 +2140,10 @@
     position: absolute;
     width: 30px;
     height: 14px;
-    left: 60.45px;
+    left: 80.45px;
     top: 20px;
 
-    font-family: 'Roboto';
+    font-family: Roboto,sans-serif;
     font-style: normal;
     font-weight: 600;
     font-size: 13px;
@@ -2176,10 +2174,10 @@
     width: 88px;
     height: 24px;
 
-    font-family: 'Roboto';
+    font-family: Roboto,sans-serif;
     font-style: normal;
     font-weight: 600;
-    font-size: 22px;
+    font-size: 20px;
     line-height: 24px;
     /* identical to box height, or 109% */
 
@@ -2238,6 +2236,36 @@
     top: 1460.19px;
 }
 
+.difuminado-paramount{
+    position: absolute;
+    height: 124px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+
+    background: linear-gradient(0deg, #0064FF 0%, rgba(0, 100, 255, 0) 100%);
+}
+
+.difuminado-hbo{
+    position: absolute;
+    height: 124px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+
+    background: linear-gradient(0deg, #3C034E 0%, rgba(60, 3, 78, 0) 100%);
+}
+
+.difuminado-disney{
+    position: absolute;
+    height: 124px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+
+    background: linear-gradient(0deg, #081330 0%, rgba(8, 19, 48, 0) 100%);
+}
+
 .benedicios-texto{
     position: absolute;
     width: 535.73px;
@@ -2281,7 +2309,7 @@
     left: 367.36px;
     top: 10px;
 
-    font-family: 'Roboto';
+    font-family: Roboto,sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 15px;
@@ -2322,6 +2350,22 @@
     bottom: 0px;
 }
 
+.cont-comentarios-hbo{
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: 138px;
+    bottom: 0px;
+}
+
+.cont-comentarios-paramout{
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: 138px;
+    bottom: 0px;
+}
+
 .cont-text-disney{
     display: flex;
     flex-direction: column;
@@ -2336,14 +2380,44 @@
     top: calc(50% - 48.97px/2 - 0.48px);
 }
 
+.cont-text-paramout{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px 0.03125px 0px 16px;
+    gap: 4.97px;
+
+    position: absolute;
+    width: 244.03px;
+    height: 48.97px;
+    left: 96px;
+    top: calc(50% - 48.97px/2 - 0.48px);
+}
+
+
+
+.cont-text-hbo{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px 0.03125px 0px 16px;
+    gap: 4.97px;
+
+    position: absolute;
+    width: 244.03px;
+    height: 48.97px;
+    left: 100px;
+    top: calc(50% - 48.97px/2 - 0.48px);
+}
+
 .texto-sincargo{
     width: 228px;
     height: 24px;
 
-    font-family: 'Roboto';
+    font-family: Roboto,sans-serif;
     font-style: normal;
     font-weight: 600;
-    font-size: 22px;
+    font-size: 20px;
     line-height: 24px;
     /* identical to box height, or 109% */
 
@@ -2364,10 +2438,60 @@
     width: 123px;
     height: 20px;
 
-    font-family: 'Roboto';
+    font-family: Roboto,sans-serif;
     font-style: normal;
     font-weight: 400;
-    font-size: 17px;
+    font-size: 15px;
+    line-height: 20px;
+    /* identical to box height, or 118% */
+
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.4px;
+
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.texto-paramout{
+    width: 123px;
+    height: 20px;
+
+    font-family: Roboto,sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    /* identical to box height, or 118% */
+
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.4px;
+
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.texto-hbo{
+    width: 123px;
+    height: 20px;
+
+    font-family: Roboto,sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
     line-height: 20px;
     /* identical to box height, or 118% */
 
@@ -2392,7 +2516,7 @@
     left: 16px;
     top: -15px;
 
-    font-family: 'Roboto';
+    font-family: Roboto,sans-serif;
     font-style: normal;
     font-weight: 600;
     font-size: 10px;
@@ -2425,6 +2549,62 @@
     border-radius: 6px;
 }
 
+.text-colecciones{
+    width: 145px;
+    height: 26px;
+
+    font-family: Roboto,sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 26px;
+    line-height: 26px;
+    /* identical to box height, or 100% */
+
+    display: flex;
+    align-items: center;
+
+    color: #666666;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.boton-colecciones{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    padding: 2px 0px 0px;
+    gap: 7.8px;
+
+    width: 192.8px;
+    height: 28px;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.h-coleccione{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    padding: 1px 0px 2.1875px;
+    gap: 6.88px;
+
+    position: absolute;
+    width: 344.67px;
+    height: 31.19px;
+    left: 106px;
+    top: 2740px;
+
+}
 
 .vertienda{
     position: absolute;
@@ -2433,10 +2613,10 @@
     left: 107.67px;
     top: 298px;
 
-    font-family: 'Roboto';
+    font-family: Roboto,sans-serif;
     font-style: normal;
     font-weight: 600;
-    font-size: 15px;
+    font-size: 13px;
     line-height: 18px;
     display: flex;
     align-items: center;
@@ -2536,10 +2716,10 @@ color: #999999;
     left: 115.45px;
     top: 0px;
 
-    font-family: 'Roboto';
+    font-family: Roboto,sans-serif;
     font-style: normal;
     font-weight: 600;
-    font-size: 24px;
+    font-size: 22px;
     line-height: 28px;
     display: flex;
     align-items: center;
@@ -2612,10 +2792,10 @@ color: #999999;
     left: 8px;
     top: 37px;
 
-    font-family: 'Roboto';
+    font-family: Roboto,sans-serif;
     font-style: normal;
     font-weight: 300;
-    font-size: 26px;
+    font-size: 24px;
     line-height: 31px;
     /* or 120% */
 
@@ -2666,7 +2846,7 @@ color: #999999;
     left: 32px;
     top: 32px;
 
-    font-family: 'Roboto';
+    font-family: Roboto,sans-serif;
     font-style: normal;
     font-weight: 600;
     font-size: 10px;
@@ -2709,10 +2889,10 @@ color: #999999;
     left: 32px;
     top: 55px;
 
-    font-family: 'Roboto';
+    font-family: Roboto,sans-serif;
     font-style: normal;
     font-weight: 600;
-    font-size: 20px;
+    font-size: 18px;
     line-height: 31px;
     /* identical to box height, or 110% */
 
@@ -2731,10 +2911,10 @@ color: #999999;
     left: 32px;
     top: 70.8px;
 
-    font-family: 'Roboto';
+    font-family: Roboto,sans-serif;
     font-style: normal;
     font-weight: 600;
-    font-size: 20px;
+    font-size: 18px;
     line-height: 31px;
     /* identical to box height, or 110% */
 
@@ -2764,7 +2944,7 @@ color: #999999;
     left: 32px;
     top: 32px;
 
-    font-family: 'Roboto';
+    font-family: Roboto,sans-serif;
     font-style: normal;
     font-weight: 600;
     font-size: 10px;
@@ -2787,10 +2967,10 @@ color: #999999;
     left: 32px;
     top: 55px;
 
-    font-family: 'Roboto';
+    font-family: Roboto,sans-serif;
     font-style: normal;
     font-weight: 600;
-    font-size: 20px;
+    font-size: 18px;
     line-height: 31px;
     /* identical to box height, or 110% */
 
@@ -2808,10 +2988,10 @@ color: #999999;
     left: 32px;
     top: 75.8px;
 
-    font-family: 'Roboto';
+    font-family: Roboto,sans-serif;
     font-style: normal;
     font-weight: 600;
-    font-size: 22px;
+    font-size: 18px;
     line-height: 31px;
     /* identical to box height, or 114% */
 
@@ -2857,10 +3037,10 @@ color: #999999;
     left: 12px;
     top: 7.5px;
 
-    font-family: 'Roboto';
+    font-family: Roboto,sans-serif;
     font-style: normal;
     font-weight: 600;
-    font-size: 14px;
+    font-size: 12px;
     line-height: 1px;
     /* or 7% */
 
@@ -2879,10 +3059,10 @@ color: #999999;
     left: 22.69px;
     top: 7.5px;
 
-    font-family: 'Roboto';
+    font-family: Roboto,sans-serif;
     font-style: normal;
     font-weight: 500;
-    font-size: 14px;
+    font-size: 12px;
     line-height: 1px;
     /* or 7% */
 
@@ -2953,8 +3133,8 @@ color: #999999;
     position: absolute;
     width: 1190px;
     height: 340px;
-    left: 10px;
-    top: 93.19px;
+    left: -170px;
+    top: 30.19px;
 
     background: rgba(255, 255, 255, 0.002);
     box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.1);
@@ -2983,7 +3163,7 @@ color: #999999;
     width: 913.97px;
     height: 130px;
     left: 0px;
-    top: 0px;
+    top: 20px;
 }
 
 .masmediospagos{
@@ -2993,7 +3173,7 @@ color: #999999;
     width: 270.03px;
     height: 130px;
     left: 913.97px;
-    top: 0px;
+    top: 20px;
 
     border-left: 1px solid #EEEEEE;
 }
@@ -3025,6 +3205,7 @@ color: #999999;
 .pagaefectivo{
     width: 304.66px;
     height: 130px;
+    
 
 
     /* Inside auto layout */
@@ -3039,12 +3220,12 @@ color: #999999;
     width: 125px;
     height: 20px;
     left: 84px;
-    top: 24px;
+    top: 4px;
 
-    font-family: 'Roboto';
+    font-family: Roboto,sans-serif;
     font-style: normal;
     font-weight: 400;
-    font-size: 17px;
+    font-size: 16px;
     line-height: 20px;
     /* identical to box height */
 
@@ -3059,9 +3240,9 @@ color: #999999;
     width: 48px;
     height: 15px;
     left: 84px;
-    top: 47px;
+    top: 27px;
 
-    font-family: 'Roboto';
+    font-family: Roboto,sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 13px;
@@ -3077,12 +3258,12 @@ color: #999999;
     width: 224px;
     height: 20px;
     left: 380px;
-    top: 24px;
+    top: 4px;
 
-    font-family: 'Roboto';
+    font-family: Roboto,sans-serif;
     font-style: normal;
     font-weight: 400;
-    font-size: 17px;
+    font-size: 16px;
     line-height: 20px;
     /* identical to box height */
 
@@ -3098,9 +3279,9 @@ color: #999999;
     width: 48px;
     height: 15px;
     left: 380px;
-    top: 47px;
+    top: 27px;
 
-    font-family: 'Roboto';
+    font-family: Roboto,sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 13px;
@@ -3117,12 +3298,12 @@ color: #999999;
     width: 126px;
     height: 20px;
     left: 680px;
-    top: 24px;
+    top: 4px;
 
-    font-family: 'Roboto';
+    font-family: Roboto,sans-serif;
     font-style: normal;
     font-weight: 400;
-    font-size: 17px;
+    font-size: 16px;
     line-height: 20px;
     /* identical to box height */
 
@@ -3138,9 +3319,9 @@ color: #999999;
     width: 48px;
     height: 15px;
     left: 680px;
-    top: 47px;
+    top: 27px;
 
-    font-family: 'Roboto';
+    font-family: Roboto,sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 13px;
@@ -3157,12 +3338,12 @@ color: #999999;
     width: 159px;
     height: 20px;
     left: 85px;
-    top: 24px;
+    top: 4px;
 
-    font-family: 'Roboto';
+    font-family: Roboto,sans-serif;
     font-style: normal;
     font-weight: 400;
-    font-size: 17px;
+    font-size: 16px;
     line-height: 20px;
     /* identical to box height */
 
@@ -3178,9 +3359,9 @@ color: #999999;
     width: 56px;
     height: 15px;
     left: 85px;
-    top: 47px;
+    top: 27px;
 
-    font-family: 'Roboto';
+    font-family: Roboto,sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 13px;
@@ -3208,11 +3389,29 @@ color: #999999;
     top: 100px;
 }
 
+.ico-full{
+    position: absolute;
+    left: 0%;
+    right: 0.35%;
+    top: 60.18%;
+    bottom: 21.18%;
+
+    
+}
+
 .ulnovedades{
     position: absolute;
     left: 726px;
     right: 726px;
     top: 400px;
+    bottom: 16px;
+}
+
+.conte-ulnovedades-principales{
+    position: absolute;
+    left: 650px;
+    right: 726px;
+    top: 408px;
     bottom: 16px;
 }
 
@@ -3465,357 +3664,6 @@ color: #999999;
     color: #333333;
 }
 
-.nav-icon-back-o:before,.nav-header .nav-header-btn:before {
-    content: ""
-}
-
-.nav-icon-bookmarks-o:before {
-    content: ""
-}
-
-.nav-icon-bookmarks:before {
-    content: ""
-}
-
-.nav-icon-chevron-right-o:before {
-    content: ""
-}
-
-.nav-icon-chevron-right:before {
-    content: ""
-}
-
-.nav-icon-chevron-up-o:before {
-    content: ""
-}
-
-.nav-icon-chevron-up:before {
-    content: ""
-}
-
-.nav-icon-close:before {
-    content: ""
-}
-
-.nav-icon-facebook:before {
-    content: ""
-}
-
-.nav-icon-gplus:before {
-    content: ""
-}
-
-.nav-icon-help-o:before {
-    content: ""
-}
-
-.nav-icon-help:before {
-    content: ""
-}
-
-.nav-icon-instagram:before {
-    content: ""
-}
-
-.nav-icon-login-o:before {
-    content: ""
-}
-
-.nav-icon-logout-o:before {
-    content: ""
-}
-
-.nav-icon-logout:before {
-    content: ""
-}
-
-.nav-icon-notifications-o:before {
-    content: ""
-}
-
-.nav-icon-notifications:before {
-    content: ""
-}
-
-.nav-icon-official-store-o:before {
-    content: ""
-}
-
-.nav-icon-register-o:before {
-    content: ""
-}
-
-.nav-icon-search-o:before {
-    content: ""
-}
-
-.nav-icon-search:before {
-    content: ""
-}
-
-.nav-icon-sell-o:before {
-    content: ""
-}
-
-.nav-icon-time-o:before {
-    content: ""
-}
-
-.nav-icon-twitter:before {
-    content: ""
-}
-
-.nav-icon-user-o:before {
-    content: ""
-}
-
-.nav-icon-user:before {
-    content: ""
-}
-
-.nav-icon-youtube:before {
-    content: ""
-}
-
-.nav-icon-close-o:before {
-    content: ""
-}
-
-.nav-icon-bookmarks-medium:before {
-    content: ""
-}
-
-.nav-icon-cart-empty-medium:before {
-    content: ""
-}
-
-.nav-icon-phone:before {
-    content: ""
-}
-
-.nav-icon-cart-empty-small:before {
-    content: ""
-}
-
-.nav-icon-cart-full-medium:before {
-    content: ""
-}
-
-.nav-icon-cart-full-small:before {
-    content: ""
-}
-
-.nav-icon-help-medium:before {
-    content: ""
-}
-
-.nav-icon-notifications-medium:before {
-    content: ""
-}
-
-.nav-icon-user-medium:before {
-    content: ""
-}
-
-.nav-icon-search-ml:before {
-    content: ""
-}
-
-.nav-icon-user-rounded:before {
-    content: ""
-}
-
-.nav-icon-app:before {
-    content: ""
-}
-
-.nav-icon-search-plus:before {
-    content: ""
-}
-
-.nav-icon-vender-mobile:before {
-    content: ""
-}
-
-.nav-icon-bookmarks-mobile:before {
-    content: ""
-}
-
-.nav-icon-categories-mobile:before {
-    content: ""
-}
-
-.nav-icon-create-account-mobile:before {
-    content: ""
-}
-
-.nav-icon-deals-mobile:before {
-    content: ""
-}
-
-.nav-icon-download-mobile:before {
-    content: ""
-}
-
-.nav-icon-help-mobile:before {
-    content: ""
-}
-
-.nav-icon-history-mobile:before {
-    content: ""
-}
-
-.nav-icon-logout-mobile:before {
-    content: ""
-}
-
-.nav-icon-my-account-mobile:before {
-    content: ""
-}
-
-.nav-icon-navigation-mobile:before {
-    content: ""
-}
-
-.nav-icon-notifications-mobile:before {
-    content: ""
-}
-
-.nav-icon-points-mobile:before {
-    content: ""
-}
-
-.nav-icon-purchases-mobile:before {
-    content: ""
-}
-
-.nav-icon-stores-mobile:before {
-    content: ""
-}
-
-.nav-icon-wallet-mobile:before {
-    content: ""
-}
-
-.nav-icon-contact-ms:before {
-    content: ""
-}
-
-.nav-icon-cart-ms:before {
-    content: ""
-}
-
-.nav-icon-close-ms:before {
-    content: ""
-}
-
-.nav-icon-search-ms:before {
-    content: ""
-}
-
-.nav-icon-search-spinner-ms:before {
-    content: ""
-}
-
-.nav-icon-twitter-ms:before {
-    content: ""
-}
-
-.nav-icon-facebook-ms:before {
-    content: ""
-}
-
-.nav-icon-instagram-ms:before {
-    content: ""
-}
-
-.nav-icon-points-discounts-mobile:before {
-    content: ""
-}
-
-.nav-icon-mercado-credits-mobile:before {
-    content: ""
-}
-
-.nav-icon-cp-location-mobile:before {
-    content: ""
-}
-
-.nav-icon-nav-icon-cp-location-desktop-guest:before {
-    content: ""
-}
-
-.nav-icon-nav-icon-cp-location-desktop-logged:before {
-    content: ""
-}
-
-.nav-icon-supermercado:before {
-    content: ""
-}
-
-.nav-icon-youtube-ms:before {
-    content: ""
-}
-
-.nav-icon-home:before {
-    content: ""
-}
-
-.nav-icon-quotations-mobile:before {
-    content: ""
-}
-
-.nav-icon-pi-logout-mobile:before {
-    content: ""
-}
-
-.nav-icon-map-search-mobile:before {
-    content: ""
-}
-
-.nav-icon-subscriptions-mobile-video:before {
-    content: ""
-}
-
-.nav-icon-contact-tc:before {
-    content: ""
-}
-
-.nav-icon-subscriptions-mobile-video-music:before {
-    content: ""
-}
-
-.nav-icon-subscriptions-mobile-music:before {
-    content: ""
-}
-
-.nav-icon-compra-internacional:before {
-    content: ""
-}
-
-.nav-icon-moda-mobile:before {
-    content: ""
-}
-
-.nav-icon-mshops-mobile:before {
-    content: ""
-}
-
-.nav-icon-summary-mobile:before {
-    content: ""
-}
-
-.nav-icon-best-sellers-mobile:before {
-    content: ""
-}
-
-.nav-icon-live-mobile:before {
-    content: ""
-}
-
-.nav-icon-coupons-mobile:before {
-    content: ""
-}
 
 @supports((display: -webkit-flex) or (display: flex)) {
     body {
