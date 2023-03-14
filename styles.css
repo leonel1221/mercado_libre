@@ -22,7 +22,7 @@
     position: absolute;
     width: 295px;
     height: 52px;
-    left: 856px;
+    left: 700px;
     top: 48px;
 }
 
@@ -31,8 +31,8 @@
     display: flex;
     width: 5100px;
     height: 340px;
-    gap: 25px;
-    left: 195px;
+    gap: 23px;
+    left: 193px;
     top: 60px;
 }
 
@@ -637,7 +637,7 @@
 
     position: absolute;
     width: 150px;
-    height: 170px;
+    height: 150px;
     left: -120px;
     right: 0px;
     bottom: 200px;
@@ -726,7 +726,7 @@
     width: 1200px;
     height: 382px;
     left: 100px;
-    top: 2809.69px;
+    top: 2709.69px;
 }
 
 .pedigre{
@@ -734,7 +734,7 @@
     width: 383px;
     height: 281px;
     left: 0px;
-    top: 0px;
+    top: -7px;
 
     background: url(.png), #FFFFFF;
 
@@ -743,9 +743,9 @@
 .container-super{
     position: absolute;
     width: 383px;
-    height: 99px;
+    height: 89px;
     left: 0px;
-    top: 285px;
+    top: 275px;
 
     background: #FFFFFF;
     border-radius: 0px 0px 4px 4px;
@@ -884,7 +884,7 @@
     width: 1512px;
     height: 300px;
     left: -2px;
-    top: 3622.5px;
+    top: 3522.5px;
 
     background: #FFFFFF;
 }
@@ -1234,7 +1234,7 @@
     width: 1200px;
     height: 460.19px;
     left: calc(50% - 1200px/2);
-    top: 580px;
+    top: 480px;
   }
 
   .ofertas-titulo{
@@ -1778,7 +1778,7 @@
     width: 1180px;
     height: 340px;
     left: 80px;
-    top: 1080.19px;
+    top: 980.19px;
 
     background: #FFFFFF;
     box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.1);
@@ -2039,14 +2039,13 @@
 
   .boton-suscribete-nivel{
     position: absolute;
-    width: 96px;
-    height: 36px;
-    left: 1050px;
-    top: 25.59px;
+    width: 123.72px;
+    height: 48px;
+    left: 1026.28px;
+    top: calc(50% - 48px/2 + 0.5px);
 
-    
     background: #3483FA;
-    border-radius: 2px;
+    border-radius: 6px;
   }
 
   .suscribete-nivel-abajo{
@@ -2233,7 +2232,7 @@
     width: 1200px;
     height: 399.19px;
     left: calc(50% - 1200px/2);
-    top: 1460.19px;
+    top: 1360.19px;
 }
 
 .difuminado-paramount{
@@ -2602,7 +2601,7 @@
     width: 344.67px;
     height: 31.19px;
     left: 106px;
-    top: 2740px;
+    top: 2640px;
 
 }
 
@@ -2782,7 +2781,7 @@ color: #999999;
     width: 1200px;
     height: 398.19px;
     left: calc(50% - 1200px/2);
-    top: 1859.5px;
+    top: 1759.5px;
 }
 
 .descubretext{
@@ -3109,7 +3108,7 @@ color: #999999;
     width: 1512px;
     height: 505.19px;
     left: -60px;
-    top: 2217.5px;
+    top: 2117.5px;
     
     background: linear-gradient(0deg, #E6E6E6 0%, rgba(255, 255, 255, 0) 100%);
 }
@@ -3119,7 +3118,7 @@ color: #999999;
     width: 1200px;
     height: 473.19px;
     left: 100px;
-    top: 3231.69px;
+    top: 3131.69px;
 
     
 }
@@ -3146,7 +3145,7 @@ color: #999999;
     width: 1184px;
     height: 90px;
     left: calc(50% - 1184px/2);
-    top: 480px;
+    top: 380px;
 
     background: #FFFFFF;
     box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.1);
@@ -3373,19 +3372,29 @@ color: #999999;
 
 }
 
+.contenedor-main{
+    position: absolute;
+    height: 3586px;
+    left: 0px;
+    right: 0px;
+    top: 100.5px;
+
+    background: #EBEBEB;
+}
+
 .novedades-principales{
     position: absolute;
     height: 340px;
     left: 0px;
     right: 0px;
-    top: 0px;
+    top: -100px;
 }
 
 .aimagennovedades{
     position: absolute;
     width: 1512px;
     height: 340px;
-    left: 0px;
+    left: -162px;
     top: 100px;
 }
 
